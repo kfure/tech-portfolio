@@ -28,5 +28,5 @@ Grace Hopper Celebration Attendee
 ## Social Media
 
 - Twitter
-- LinkedIn
+- https://www.linkedin.com/in/kirstenfure/
 - GitHub
