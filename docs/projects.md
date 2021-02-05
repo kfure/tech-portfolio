@@ -3,6 +3,16 @@ id: projects
 title: Projects
 ---
 
+##Predicting Music Genres using Data Mining and R
+
+See my project ![here](./assets/KF_Project_Music_Genres.pdf)
+
+
+
+
+
+
+
 Embed any notable projects in this page.
 
 For example, my favorite project would be linked and I can even embed
