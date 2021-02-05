@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Kirsten Fure', // Title for your website.
-    tagline: 'Continuously improving, aspiring technologist. Interested in Data Science, Business Intelligence, ERP Software, Databases and anywhere I can solve problems.',
+    tagline: 'Continuously improving, aspiring technologist. Interested in Data Science, Business Intelligence, ERP Software, Databases, and anywhere I can solve problems.',
     profilePhoto: 'img/profile.png',
     url: 'https://kfure.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
