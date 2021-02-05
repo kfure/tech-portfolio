@@ -5,7 +5,9 @@ title: Projects
 
 ## Predicting Music Genres using Data Mining and R
 
-See my project analysis: [![](./assets/Music_Photo.png)](./assets/KF_Project_Music_Genres.pdf)
+Click here to see my project analysis: [![](./assets/Music_Photo.png)](./assets/KF_Project_Music_Genres.pdf)
+
+Click here to see my [R source code:](/assets/Predicting Music Genre.R?
 
 
 
