@@ -8,7 +8,7 @@ title: Projects
 Click on the photo to see my project analysis: [![](./assets/Music_Photo.png)](./assets/KF_Project_Music_Genres.pdf)
 
 
-Click on this link to see my ## [R source code](./assets/Source_Code_Predicting_Music_Genres.pdf)
+Click on this link to see my [R source code](./assets/Source_Code_Predicting_Music_Genres.pdf)
 
 
 
